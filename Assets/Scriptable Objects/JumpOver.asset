@@ -15,3 +15,4 @@ MonoBehaviour:
   objectTag: Barrier
   animation: JumpOver
   length: 1.9
+  isSwipeUp: 1

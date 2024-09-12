@@ -15,3 +15,4 @@ MonoBehaviour:
   objectTag: Fence
   animation: Vault
   length: 1.167
+  isSwipeUp: 1

@@ -8,6 +8,8 @@ TagManager:
   - Fence
   - Cross
   - Wall
+  - Spawn
+  - Delete
   layers:
   - Default
   - TransparentFX

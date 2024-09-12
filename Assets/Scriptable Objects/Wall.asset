@@ -15,3 +15,4 @@ MonoBehaviour:
   objectTag: Wall
   animation: WallClimb
   length: 1.783
+  isSwipeUp: 1
